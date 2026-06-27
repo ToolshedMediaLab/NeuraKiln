@@ -6,9 +6,8 @@ This first public Free build includes the Individual Tools workflow for local re
 
 Requirements
 Windows 10/11
-NVIDIA GPU required
-NVIDIA RTX GPU recommended
-32 GB system RAM recommended
+NVIDIA RTX GPU 
+32 GB system RAM 
 Enough free disk space for temporary restoration files and output media
 7-Zip required to extract the multi-part download
 Download
