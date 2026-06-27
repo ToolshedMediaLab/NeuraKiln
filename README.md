@@ -4,7 +4,7 @@ Toolshed V1 Free is a local Windows media restoration workflow built for NVIDIA 
 
 This first public Free build includes the Individual Tools workflow for local restoration, upscaling, comparison, post-editing, and recompilation workflows. Pipeline+ workflows and Model Tools are visible in-app but are reserved for Toolshed V1 Premium / Enterprise.
 
-Requirements
+Requirements:
 
 Windows 10/11
 
@@ -34,25 +34,35 @@ After all parts are downloaded, extract only the .001 file with 7-Zip. 7-Zip wil
 
 Do not extract each numbered file separately.
 
-How to Run
+How to Run:
+
 Download all release archive parts.
+
 Right-click ToolshedV1-Free-Portable-Download.7z.001.
+
 Extract it with 7-Zip.
+
 Extract the resulting Toolshed V1 Free portable ZIP.
+
 Open the extracted ToolshedV1 folder.
+
 Run Toolshed V1.exe.
 
 Do not run the app from inside the ZIP.
 
-Included in Free
+Included in Free:
+
 Toolshed Restore
+
 Restore Batch Mode
+
 SmartFrames / scan tools where available
+
 Compare
+
 PostEdit
+
 Recompile
-Local NVIDIA-based restoration workflows
-Premium / Enterprise
 
 Toolshed V1 Premium / Enterprise will add advanced workflow features such as Pipeline+ workflows, session resume, Model Tools, and additional managed workflow functionality.
 
@@ -60,14 +70,19 @@ Support and Premium / Enterprise access are available through Toolshed Media Lab
 
 https://www.patreon.com/c/ToolshedMediaLab
 
-Issue Reports
+Issue Reports:
 
 When reporting an issue, please include:
 
 GPU model
+
 Windows version
+
 Selected execution provider
+
 Model used
+
 Source media type and resolution
+
 Console output or error message
 Steps needed to reproduce the issue
