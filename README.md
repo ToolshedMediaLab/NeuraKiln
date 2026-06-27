@@ -5,6 +5,7 @@ Toolshed V1 Free is a local Windows media restoration workflow built for NVIDIA 
 This first public Free build includes the Individual Tools workflow for local restoration, upscaling, comparison, post-editing, and recompilation workflows. Pipeline+ workflows and Model Tools are visible in-app but are reserved for Toolshed V1 Premium / Enterprise.
 
 Requirements
+
 Windows 10/11
 NVIDIA RTX GPU 
 32 GB system RAM 
