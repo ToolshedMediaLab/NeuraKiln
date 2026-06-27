@@ -7,10 +7,15 @@ This first public Free build includes the Individual Tools workflow for local re
 Requirements
 
 Windows 10/11
+
 NVIDIA RTX GPU 
+
 32 GB system RAM 
+
 Enough free disk space for temporary restoration files and output media
+
 7-Zip required to extract the multi-part download
+
 Download
 
 Toolshed V1 Free is distributed as a multi-part 7-Zip archive because the full portable package is larger than GitHub's single-file release asset limit.
