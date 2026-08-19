@@ -1,88 +1,98 @@
-Toolshed V1 Free
+Toolshed V1 Rev1.1
 
-Toolshed V1 Free is a local Windows media restoration workflow built for NVIDIA GPUs.
+Toolshed V1 is a local Windows media restoration workflow built for NVIDIA RTX GPUs.
 
-This first public Free build includes the Individual Tools workflow for local restoration, upscaling, comparison, post-editing, and recompilation workflows. Pipeline+ workflows and Model Tools are visible in-app but are reserved for Toolshed V1 Premium / Enterprise.
+Rev1.1 is the complete public Toolshed V1 release and includes the full V1 feature set in a self-contained portable package.
 
-Requirements:
+Toolshed runs locally on your system and includes its required Python, CUDA, TensorRT RTX, and FFmpeg runtime components.
 
+Requirements
 Windows 10/11
-
-NVIDIA RTX GPU 
-
-32 GB system RAM 
-
-Enough free disk space for temporary restoration files and output media
-
+NVIDIA RTX GPU
+32 GB system RAM
+Enough free disk space for the Toolshed package, temporary restoration files, and output media
 7-Zip required to extract the multi-part download
+
+A separate Python installation is not required.
 
 Download
 
-Toolshed V1 Free is distributed as a multi-part 7-Zip archive because the full portable package is larger than GitHub's single-file release asset limit.
+Toolshed V1 Rev1.1 is distributed as a multi-part 7-Zip archive because the full portable package is larger than GitHub's single-file release asset limit.
 
 Download every part from the latest GitHub Release:
 
-ToolshedV1-Free-Portable-Download.7z.001
-ToolshedV1-Free-Portable-Download.7z.002
-ToolshedV1-Free-Portable-Download.7z.003
-ToolshedV1-Free-Portable-Download.7z.004
-ToolshedV1-Free-Portable-Download.7z.005
-ToolshedV1-Free-Portable-Download.7z.006
-ToolshedV1-Free-Portable-Download.7z.007
+Toolshed V1 Rev1.1.7z.001
+Toolshed V1 Rev1.1.7z.002
+Toolshed V1 Rev1.1.7z.003
+Toolshed V1 Rev1.1.7z.004
+Toolshed V1 Rev1.1.7z.005
+Toolshed V1 Rev1.1.7z.006
+Toolshed V1 Rev1.1.7z.007
 
-After all parts are downloaded, extract only the .001 file with 7-Zip. 7-Zip will automatically read the remaining parts.
+Keep all seven files together in the same folder.
+
+After all parts are downloaded, extract only:
+
+Toolshed V1 Rev1.1.7z.001
+
+7-Zip will automatically read the remaining archive parts.
 
 Do not extract each numbered file separately.
 
-How to Run:
-
-Download all release archive parts.
-
-Right-click ToolshedV1-Free-Portable-Download.7z.001.
-
+How to Run
+Download all seven release archive parts.
+Right-click Toolshed V1 Rev1.1.7z.001.
 Extract it with 7-Zip.
+Open the extracted toolshedV1 folder.
+Run Launch Toolshed.bat.
 
-Extract the resulting Toolshed V1 Free portable ZIP.
+Do not run Toolshed from inside the 7-Zip archive.
 
-Open the extracted ToolshedV1 folder.
+Toolshed uses the Python runtime included inside the application folder and does not require a system Python installation.
 
-Run Toolshed V1.exe.
+Included in Toolshed V1 Rev1.1
 
-Do not run the app from inside the ZIP.
-
-Included in Free:
+Toolshed V1 Rev1.1 includes the complete V1 workflow, including:
 
 Toolshed Restore
-
 Restore Batch Mode
-
-SmartFrames / scan tools where available
-
+SmartFrames / scan tools
 Compare
-
 PostEdit
-
 Recompile
+Pipeline+ workflows
+Session / managed workflow functionality
+Model Tools
+Additional V1 workflow features previously reserved for Premium / Enterprise builds
 
-Toolshed V1 Premium / Enterprise will add advanced workflow features such as Pipeline+ workflows, session resume, Model Tools, and additional managed workflow functionality.
+There is no separate Free / Premium / Enterprise feature split in Rev1.1.
 
-Support and Premium / Enterprise access are available through Toolshed Media Lab Patreon:
+Rev1.1 Improvements
 
-https://www.patreon.com/c/ToolshedMediaLab
+Rev1.1 includes fixes and packaging improvements made since the original public release, including:
 
-Issue Reports:
+Fixed TensorRT RTX tile handling when the selected tile size is larger than the source frame
+Fixed the resulting TensorRT RTX input shape mismatch that could cause inference to fall back to CPU
+Added a bundled Python 3.12 runtime
+Removed the requirement for users to install Python separately
+Updated the launcher to use Toolshed's bundled Python runtime directly
+Cleaned up NVIDIA GPU detection dependencies
+Bundled CUDA, TensorRT RTX, FFmpeg, FFprobe, and Python runtime components
+General dependency and release packaging cleanup
+
+Rev1.1 has been smoke-tested using the bundled portable runtime.
+
+Issue Reports
 
 When reporting an issue, please include:
 
 GPU model
-
 Windows version
-
 Selected execution provider
-
 Model used
-
 Source media type and resolution
-
 Console output or error message
 Steps needed to reproduce the issue
+Project Status
+
+Toolshed V1 Rev1.1 is the final planned revision of Toolshed V1 in its current form.
