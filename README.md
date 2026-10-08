@@ -9,12 +9,6 @@
 <p align="center">Free, locally powered AI creation. Four labs. One application.</p>
 
 <p align="center">
-  <a href="assets/NeuraKiln_Creation_Zone_Promo.mp4" title="Watch NeuraKiln Llama Lab Creation Zone demo">
-    <img src="assets/creation-zone-preview.webp" alt="Real NeuraKiln Creation Zone footage: concept art, 3D generation, and Blender refinement" width="800" />
-  </a>
-</p>
-
-<p align="center"><a href="assets/NeuraKiln_Creation_Zone_Promo.mp4"><strong>▶ Watch the full Creation Zone demonstration (93 seconds)</strong></a></p>
 
 <p align="center">One prompt. Local LLM. Concept Art → 3D Generation → Blender Refinement → Export.</p>
 
