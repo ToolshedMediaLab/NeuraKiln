@@ -6,6 +6,7 @@ If NeuraKiln has saved you a headache, improved your workflow, or helped bring y
 
 Every donation helps support continued development, improvements, and the growth of NeuraKiln.
 
+
 <div align="center">
   <a href="https://buymeacoffee.com/toolshedmedialabs">
     <img
@@ -21,6 +22,7 @@ Every donation helps support continued development, improvements, and the growth
     Every contribution helps development continue and grow.
   </p>
 </div>
+
 
 Your support is entirely optional, but always appreciated.
 
