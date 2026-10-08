@@ -1,11 +1,11 @@
-## Bug Reporting
+Bug Reporting:
 
 If you encounter a bug, crash, or unexpected behavior while using NeuraKiln, please report it through our official Discord server.
 
-### How to Report a Bug
+Instructions - 
 
-1. Join the **Official NeuraKiln Discord Server**.
-2. Navigate to the **#bug-report** channel.
+1. Join the Official NeuraKiln Discord Server.
+2. Navigate to the #bug-report channel.
 3. Describe the issue and provide the following information where applicable:
    - NeuraKiln version
    - Affected Lab (Media, Llama, Diffusion, or Mesh)
@@ -16,6 +16,6 @@ If you encounter a bug, crash, or unexpected behavior while using NeuraKiln, ple
 
 Please check for existing reports before submitting a new one to help avoid duplicates.
 
-**All official bug reports should be submitted through the #bug-report Discord channel.**
+All official bug reports should be submitted through the #bug-report Discord channel.
 
 Thank you for helping us improve NeuraKiln.
