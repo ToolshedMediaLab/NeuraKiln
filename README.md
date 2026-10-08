@@ -33,6 +33,8 @@
   <p align="center">Agent Space — Agentic Coding Demonstration.</p>
 </details>
 
+---
+
 ## What Is NeuraKiln?
 
 <table>
@@ -48,7 +50,10 @@
   </tr>
 </table>
 
-<h3>Explore the Four Labs</h3>
+---
+
+## Explore the four labs
+
 
 <table>
   <tr>
@@ -97,14 +102,19 @@
   </tr>
 </table>
 
+---
 
 ### Built Around Your Hardware
+
+---
 
 <p align="center"><strong>NeuraKiln isn't here to replace your creative tools. It's here to bring them together.</strong></p>
 
 | Local-first | NVIDIA accelerated | Connected workflows |
 | :--- | :--- | :--- |
 | Run supported models and processing tasks on your own PC. | Take advantage of CUDA, TensorRT, and multiple NVIDIA GPUs where supported. | Use Model Tools to manage compatible models and let supported agents work across labs. |
+
+---
 
 <p align="center">
   <strong>NeuraKiln is free, and I intend to keep it that way.</strong>
@@ -196,6 +206,51 @@
   on the selected backend and does not necessarily
   combine GPU memory into one shared pool.
 </p>
+
+---
+
+<h2 align="center">Join the NeuraKiln Community</h2>
+
+<p align="center">
+  Connect with the NeuraKiln community through the
+  official Discord server!
+</p>
+
+<p align="center">
+  Follow development progress, discuss features,
+  share your creations, ask questions, and stay
+  informed about upcoming releases.
+</p>
+
+<p align="center">
+  <a href="https://discord.gg/KxXHZMmdZ7">
+    <img
+      src="https://img.shields.io/badge/Discord-Join%20the%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white"
+      alt="Join the Official NeuraKiln Discord"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <strong>Bug Reporting</strong>
+</p>
+
+<p align="center">
+  Found a bug or encountered an issue?
+  Join the Discord and submit your report in
+  <strong>#bug-report</strong>.
+</p>
+
+<p align="center">
+  For reporting guidelines, see
+  <a href="CONTRIBUTING.md">Contributing & Bug Reporting</a>.
+</p>
+
+<p align="center">
+  <sub>Official NeuraKiln Discord Server</sub>
+</p>
+
+---
 
 <h2 align="center">Support NeuraKiln Development</h2>
 
