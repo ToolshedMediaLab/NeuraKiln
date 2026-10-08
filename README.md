@@ -1,4 +1,3 @@
-(https://github.com/user-attachments/files/33214384/README.md)
 <h1 align="center">NeuraKiln v2.0.0<br><sub>Dream. Think. Create.</sub></h1>
 
 <img width="880" height="496" alt="creation-zone-preview" src="https://github.com/user-attachments/assets/5491ac77-cccd-42d6-b65c-4d814cfaa8a4" />
