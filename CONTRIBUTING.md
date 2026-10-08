@@ -2,11 +2,6 @@ Support NeuraKiln Development
 
 NeuraKiln is free, and I intend to keep it that way.
 
-If NeuraKiln has saved you a headache, improved your workflow, or helped bring your creative ideas to life, please consider buying us a coffee!
-
-Every donation helps support continued development, improvements, and the growth of NeuraKiln.
-
-
 <div align="center">
   <a href="https://buymeacoffee.com/toolshedmedialabs">
     <img
