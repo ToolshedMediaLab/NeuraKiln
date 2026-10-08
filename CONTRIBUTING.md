@@ -1,6 +1,6 @@
-                                                     Support NeuraKiln Development
+                                            Support NeuraKiln Development
 
-                                           NeuraKiln is free, and I intend to keep it that way.
+                                  NeuraKiln is free, and I intend to keep it that way.
 
 
 
