@@ -25,7 +25,7 @@ Every donation helps support continued development, improvements, and the growth
 
 
 
-Your support is entirely optional, but always appreciated.
+
 
 Bug Reporting:
 
