@@ -1,6 +1,6 @@
-Support NeuraKiln Development
+                                                     Support NeuraKiln Development
 
-NeuraKiln is free, and I intend to keep it that way.
+                                           NeuraKiln is free, and I intend to keep it that way.
 
 
 
@@ -22,31 +22,32 @@ NeuraKiln is free, and I intend to keep it that way.
 </div>
 
 
-Bug Reporting:
+    Bug Reporting:
 
-If you encounter a bug, crash, or unexpected behavior while using NeuraKiln, please report it through our official Discord server.
+    If you encounter a bug, crash, or unexpected behavior while using NeuraKiln, please report it through our official Discord server.
 
-How to Report a Bug
+    How to Report a Bug
 
-1. Join the Official NeuraKiln Discord Server.
-2. Navigate to the #bug-report channel.
-3. Describe the issue and include the following information where applicable:
-   - NeuraKiln Version: The version you're currently using.
-   - Affected Lab: Media Lab, Llama Lab, Diffusion Lab, or Mesh Lab.
-   - System Specifications: GPU, CPU, RAM, and operating system.
-   - Steps to Reproduce: A description of how the issue occurred.
-   - Expected Behavior: What you expected to happen.
-   - Actual Behavior: What happened instead.
-   - Supporting Evidence: Relevant error logs, screenshots, or recordings.
+    1. Join the Official NeuraKiln Discord Server.
+    2. Navigate to the #bug-report channel.
+    3. Describe the issue and include the following information where applicable:
+      - NeuraKiln Version: The version you're currently using.
+      - Affected Lab: Media Lab, Llama Lab, Diffusion Lab, or Mesh Lab.
+      - System Specifications: GPU, CPU, RAM, and operating system.
+      - Steps to Reproduce: A description of how the issue occurred.
+      - Expected Behavior: What you expected to happen.
+      - Actual Behavior: What happened instead.
+      - Supporting Evidence: Relevant error logs, screenshots, or recordings.
 
-Before Submitting
+    Before Submitting
 
-Please check the #bug-report channel for existing reports before submitting a new one. This helps reduce duplicates and allows us to investigate issues more efficiently.
+    Please check the #bug-report channel for existing reports before submitting a new one. 
+    This helps reduce duplicates and allows us to investigate issues more efficiently.
 
-All official bug reports should be submitted through the #bug-report channel on our Discord server.
+    All official bug reports should be submitted through the #bug-report channel on our Discord server.
 
-Thank you for helping us improve NeuraKiln!
+    Thank you for helping us improve NeuraKiln!
 
-NeuraKiln — Dream. Think. Create.
+    NeuraKiln — Dream. Think. Create.
 
-© 2026 ToolshedMediaLabs. All Rights Reserved.
+    © 2026 ToolshedMediaLabs. All Rights Reserved.
