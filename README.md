@@ -2,7 +2,13 @@
 
 
 
-<details open>
+
+https://github.com/user-attachments/assets/205faf40-813d-4ab6-8795-9db8af4a1425
+
+
+
+
+<details>
   <summary><strong>Mesh Creation</strong></summary>
   
   <img width="880" height="496" alt="creation-zone-preview" src="https://github.com/user-attachments/assets/b01d78b1-829b-480b-8b4e-fe8b890384fc" />
