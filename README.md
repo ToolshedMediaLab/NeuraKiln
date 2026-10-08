@@ -48,7 +48,6 @@
   </tr>
 </table>
 
-
 <h3>Explore the Four Labs</h3>
 
 <table>
@@ -107,7 +106,23 @@
 | :--- | :--- | :--- |
 | Run supported models and processing tasks on your own PC. | Take advantage of CUDA, TensorRT, and multiple NVIDIA GPUs where supported. | Use Model Tools to manage compatible models and let supported agents work across labs. |
 
+<p align="center">
+  <strong>NeuraKiln is free, and I intend to keep it that way.</strong>
+</p>
 
+<p align="center">
+  <a href="https://buymeacoffee.com/toolshedmedialabs">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" width="200">
+  </a>
+</p>
+
+<p align="center">
+  If NeuraKiln has saved you a headache, improved your workflow, or helped bring your creative ideas to life, please consider buying me a coffee!
+</p>
+
+<p align="center">
+  Every donation helps support continued development, improvements, and the growth of NeuraKiln.
+</p>
 
 <h2>System Requirements</h2>
 
@@ -182,3 +197,26 @@
   combine GPU memory into one shared pool.
 </p>
 
+<h2 align="center">Support NeuraKiln Development</h2>
+
+<p align="center">
+  <strong>NeuraKiln is free, and I intend to keep it that way.</strong>
+</p>
+
+<p align="center">
+  <a href="https://buymeacoffee.com/toolshedmedialabs">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" width="200">
+  </a>
+</p>
+
+<p align="center">
+  If NeuraKiln has saved you a headache, improved your workflow, or helped bring your creative ideas to life, please consider buying me a coffee!
+</p>
+
+<p align="center">
+  Every donation helps support continued development, improvements, and the growth of NeuraKiln.
+</p>
+
+<p align="center">
+  <em>Your support is entirely optional, but always appreciated.</em>
+</p>
