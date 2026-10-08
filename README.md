@@ -101,11 +101,84 @@
 
 ### Built Around Your Hardware
 
+<p align="center"><strong>NeuraKiln isn't here to replace your creative tools. It's here to bring them together.</strong></p>
+
 | Local-first | NVIDIA accelerated | Connected workflows |
 | :--- | :--- | :--- |
 | Run supported models and processing tasks on your own PC. | Take advantage of CUDA, TensorRT, and multiple NVIDIA GPUs where supported. | Use Model Tools to manage compatible models and let supported agents work across labs. |
 
-<p align="center"><strong>NeuraKiln isn't here to replace your creative tools. It's here to bring them together.</strong></p>
 
 
+<h2>System Requirements</h2>
+
+<p>
+  NeuraKiln is designed for NVIDIA RTX-powered systems.
+  Hardware requirements vary depending on the selected
+  lab, AI model, and workload.
+</p>
+
+<h3>System Memory (RAM)</h3>
+
+<table>
+  <tr>
+    <th align="center" width="50%">Minimum</th>
+    <th align="center" width="50%">Recommended</th>
+  </tr>
+  <tr>
+    <td align="center"><strong>32 GB RAM</strong></td>
+    <td align="center"><strong>64 GB RAM</strong></td>
+  </tr>
+</table>
+
+<h3>GPU Requirements</h3>
+
+<table>
+  <tr>
+    <th align="left">Lab / Workload</th>
+    <th align="center">Minimum VRAM</th>
+    <th align="center">Recommended VRAM</th>
+  </tr>
+  <tr>
+    <td><strong>Llama Lab</strong></td>
+    <td align="center">8 GB</td>
+    <td align="center">16 GB</td>
+  </tr>
+  <tr>
+    <td><strong>Media Lab</strong></td>
+    <td align="center">12 GB</td>
+    <td align="center">16 GB</td>
+  </tr>
+  <tr>
+    <td><strong>Mesh Lab</strong></td>
+    <td align="center">16 GB</td>
+    <td align="center">16 GB</td>
+  </tr>
+  <tr>
+    <td><strong>Diffusion Lab</strong><br>
+    <sub>Text-to-Image</sub></td>
+    <td align="center">12 GB</td>
+    <td align="center">16 GB</td>
+  </tr>
+  <tr>
+    <td><strong>Diffusion Lab</strong><br>
+    <sub>Text-to-Video</sub></td>
+    <td align="center">32 GB</td>
+    <td align="center">32 GB</td>
+  </tr>
+</table>
+
+<p>
+  <strong>Multi-GPU Compatible Workloads:</strong>
+  Llama Lab, Diffusion Lab Text-to-Image, and
+  Diffusion Lab Text-to-Video.
+</p>
+
+<p>
+  <strong>Important:</strong> All listed GPU requirements
+  refer to NVIDIA RTX hardware. Actual VRAM consumption
+  depends on model size, precision, resolution, and
+  workload configuration. Multi-GPU support depends
+  on the selected backend and does not necessarily
+  combine GPU memory into one shared pool.
+</p>
 
