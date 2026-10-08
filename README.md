@@ -1,4 +1,4 @@
-<h1 align="center">NeuraKiln v2.0.0<br><sub>Dream. Think. Create.</sub></h1>
+<h1 align="center">NeuraKiln v2.0.0 - Formerly Toolshed<br><sub>Dream. Think. Create.</sub></h1>
 
 
 
