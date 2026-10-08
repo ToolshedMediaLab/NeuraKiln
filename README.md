@@ -32,5 +32,5 @@
   <summary><strong>Agentic Coding</strong></summary>
 
   <p align="center"><strong>Coming Soon</strong></p>
-  <p align="center">Llama Lab — Agentic Coding.</p>
+  <p align="center">Llama Lab — Agentic Coding Demonstration.</p>
 </details>
