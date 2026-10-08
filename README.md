@@ -51,34 +51,56 @@
   </tr>
 </table>
 
-### Explore the Four Labs
+
+<h3>Explore the Four Labs</h3>
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>Llama Lab</h3>
-      <p><strong>Local LLMs · Agents · Tools</strong></p>
-      <p>Run compatible language models on your own hardware. Chat, use integrated tools, and let agents coordinate multi-step tasks across supported workflows.</p>
+    <th align="left" width="50%">Llama Lab</th>
+    <th align="left" width="50%">Diffusion Lab</th>
+  </tr>
+  <tr>
+    <td valign="top">
+      <strong>Local LLMs · Agents · Tools</strong>
+      <p>
+        Run compatible language models on your own hardware.
+        Chat, use integrated tools, and let agents coordinate
+        multi-step tasks across supported workflows.
+      </p>
     </td>
-    <td width="50%" valign="top">
-      <h3>Diffusion Lab</h3>
-      <p><strong>Image Generation · Video Generation</strong></p>
-      <p>Create original images and video locally with compatible generative models and GPU-accelerated pipelines.</p>
+    <td valign="top">
+      <strong>Image Generation · Video Generation</strong>
+      <p>
+        Create original images and video locally with
+        compatible generative models and GPU-accelerated
+        pipelines.
+      </p>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3>Media Lab</h3>
-      <p><strong>Restoration · Upscaling · Enhancement</strong></p>
-      <p>Restore and enhance existing videos and images with GPU-accelerated processing and configurable restoration workflows.</p>
+    <th align="left">Media Lab</th>
+    <th align="left">Mesh Lab</th>
+  </tr>
+  <tr>
+    <td valign="top">
+      <strong>Restoration · Upscaling · Enhancement</strong>
+      <p>
+        Restore and enhance existing videos and images
+        with GPU-accelerated processing and configurable
+        restoration workflows.
+      </p>
     </td>
-    <td width="50%" valign="top">
-      <h3>Mesh Lab</h3>
-      <p><strong>3D Generation · Texturing · Refinement</strong></p>
-      <p>Generate 3D assets, work with rigging and export tools, and use Blender-integrated workflows for further refinement.</p>
+    <td valign="top">
+      <strong>3D Generation · Texturing · Refinement</strong>
+      <p>
+        Generate 3D assets, work with rigging and export
+        tools, and use Blender-integrated workflows
+        for further refinement.
+      </p>
     </td>
   </tr>
 </table>
+
 
 ### Built Around Your Hardware
 
