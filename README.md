@@ -69,14 +69,19 @@ https://github.com/user-attachments/assets/3c2dca6f-0f29-4bed-b397-895d878511a6
   <tr>
     <td valign="top">
       <strong>Local LLMs · Agents · Tools</strong>
+      <br>
+      <strong>Backend(s):</strong> llama.cpp · Strata
       <p>
-        Run compatible language models on your own hardware.
-        Chat, use integrated tools, and let agents coordinate
-        multi-step tasks across supported workflows.
+        Run compatible language models on your own
+        hardware. Chat, use integrated tools, and let
+        agents coordinate multi-step tasks across
+        supported workflows.
       </p>
     </td>
     <td valign="top">
       <strong>Image Generation · Video Generation</strong>
+      <br>
+      <strong>Backend(s):</strong> NKDiffusion · stablediffusion.cpp 
       <p>
         Create original images and video locally with
         compatible generative models and GPU-accelerated
@@ -91,6 +96,8 @@ https://github.com/user-attachments/assets/3c2dca6f-0f29-4bed-b397-895d878511a6
   <tr>
     <td valign="top">
       <strong>Restoration · Upscaling · Enhancement</strong>
+      <br>
+      <strong>Backend:</strong> NKMedia powered by ONNX
       <p>
         Restore and enhance existing videos and images
         with GPU-accelerated processing and configurable
@@ -99,6 +106,8 @@ https://github.com/user-attachments/assets/3c2dca6f-0f29-4bed-b397-895d878511a6
     </td>
     <td valign="top">
       <strong>3D Generation · Texturing · Refinement</strong>
+      <br>
+      <strong>Backend(s):</strong> NKDiffusion · llama.cpp · stablediffusion.cpp  
       <p>
         Generate 3D assets, work with rigging and export
         tools, and use Blender-integrated workflows
