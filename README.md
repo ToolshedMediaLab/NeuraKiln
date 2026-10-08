@@ -34,3 +34,59 @@
   <p align="center"><strong>Coming Soon</strong></p>
   <p align="center">Agent Space — Agentic Coding Demonstration.</p>
 </details>
+
+
+## What Is NeuraKiln?
+
+<table>
+  <tr>
+    <td width="66%" valign="middle">
+      <p><strong>NeuraKiln (formerly Toolshed)</strong> is a free-to-use, local-first AI workstation for Windows, built around NVIDIA GPU acceleration.</p>
+      <p>It brings language models, AI-assisted media restoration, image and video generation, and 3D creation together in one application—without forcing you to manage a collection of disconnected tools.</p>
+      <p><strong>Four specialized labs. One connected workspace.</strong></p>
+    </td>
+    <td width="34%" align="center" valign="middle">
+      <img width="1344" height="1170" alt="neurakiln-logo" src="https://github.com/user-attachments/assets/c97db9cd-661c-47c8-94bc-62be4c00df68" />
+    </td>
+  </tr>
+</table>
+
+### Explore the Four Labs
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Llama Lab</h3>
+      <p><strong>Local LLMs · Agents · Tools</strong></p>
+      <p>Run compatible language models on your own hardware. Chat, use integrated tools, and let agents coordinate multi-step tasks across supported workflows.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Diffusion Lab</h3>
+      <p><strong>Image Generation · Video Generation</strong></p>
+      <p>Create original images and video locally with compatible generative models and GPU-accelerated pipelines.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Media Lab</h3>
+      <p><strong>Restoration · Upscaling · Enhancement</strong></p>
+      <p>Restore and enhance existing videos and images with GPU-accelerated processing and configurable restoration workflows.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Mesh Lab</h3>
+      <p><strong>3D Generation · Texturing · Refinement</strong></p>
+      <p>Generate 3D assets, work with rigging and export tools, and use Blender-integrated workflows for further refinement.</p>
+    </td>
+  </tr>
+</table>
+
+### Built Around Your Hardware
+
+| Local-first | NVIDIA accelerated | Connected workflows |
+| :--- | :--- | :--- |
+| Run supported models and processing tasks on your own PC. | Take advantage of CUDA, TensorRT, and multiple NVIDIA GPUs where supported. | Use Model Tools to manage compatible models and let supported agents work across labs. |
+
+<p align="center"><strong>NeuraKiln isn't here to replace your creative tools. It's here to bring them together.</strong></p>
+
+
+
