@@ -1,21 +1,40 @@
+Support NeuraKiln Development
+
+NeuraKiln is free, and I intend to keep it that way.
+
+If NeuraKiln has saved you a headache, improved your workflow, or helped bring your creative ideas to life, please consider buying us a coffee!
+
+Every donation helps support continued development, improvements, and the growth of NeuraKiln.
+
+[Support NeuraKiln — Buy Me a Coffee](https://buymeacoffee.com/toolshedmedialabs)
+
+Your support is entirely optional, but always appreciated.
+
 Bug Reporting:
 
 If you encounter a bug, crash, or unexpected behavior while using NeuraKiln, please report it through our official Discord server.
 
-Instructions - 
+How to Report a Bug
 
 1. Join the Official NeuraKiln Discord Server.
 2. Navigate to the #bug-report channel.
-3. Describe the issue and provide the following information where applicable:
-   - NeuraKiln version
-   - Affected Lab (Media, Llama, Diffusion, or Mesh)
-   - GPU and system specifications
-   - Steps to reproduce the issue
-   - Expected and actual behavior
-   - Relevant error logs or screenshots
+3. Describe the issue and include the following information where applicable:
+   - NeuraKiln Version: The version you're currently using.
+   - Affected Lab: Media Lab, Llama Lab, Diffusion Lab, or Mesh Lab.
+   - System Specifications: GPU, CPU, RAM, and operating system.
+   - Steps to Reproduce: A description of how the issue occurred.
+   - Expected Behavior: What you expected to happen.
+   - Actual Behavior: What happened instead.
+   - Supporting Evidence: Relevant error logs, screenshots, or recordings.
 
-Please check for existing reports before submitting a new one to help avoid duplicates.
+Before Submitting
 
-All official bug reports should be submitted through the #bug-report Discord channel.
+Please check the #bug-report channel for existing reports before submitting a new one. This helps reduce duplicates and allows us to investigate issues more efficiently.
 
-Thank you for helping us improve NeuraKiln.
+All official bug reports should be submitted through the #bug-report channel on our Discord server.
+
+Thank you for helping us improve NeuraKiln!
+
+NeuraKiln — Dream. Think. Create.
+
+© 2026 ToolshedMediaLabs. All Rights Reserved.
