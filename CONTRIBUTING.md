@@ -24,9 +24,6 @@ Every donation helps support continued development, improvements, and the growth
 </div>
 
 
-
-
-
 Bug Reporting:
 
 If you encounter a bug, crash, or unexpected behavior while using NeuraKiln, please report it through our official Discord server.
