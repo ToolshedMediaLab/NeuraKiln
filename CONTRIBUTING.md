@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  If NeuraKiln has saved you a headache, improved your workflow, or helped bring your creative ideas to life, please consider buying us a coffee!
+  If NeuraKiln has saved you a headache, improved your workflow, or helped bring your creative ideas to life, please consider buying me a coffee!
 </p>
 
 <p align="center">
