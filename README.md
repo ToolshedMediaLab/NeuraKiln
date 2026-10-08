@@ -1,5 +1,11 @@
 <h1 align="center">NeuraKiln v2.0.0 - Formerly Toolshed<br><sub>Dream. Think. Create.</sub></h1> <p align="center">Free, locally powered AI creation. Four labs. One application.</p>
 
+---
+
+https://github.com/user-attachments/assets/97261033-10c6-4058-b67c-5756850c887e
+
+---
+
 <details open>
   <summary><strong>Mesh Creation</strong></summary>
   
