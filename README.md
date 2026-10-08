@@ -1,10 +1,10 @@
 [README.md](https://github.com/user-attachments/files/33213973/README.md)
 <h1 align="center">NeuraKiln v2.0.0</h1>
-
+<p align="center"><strong>Dream. Think. Create.</strong></p>
 
 <img width="880" height="496" alt="creation-zone-preview" src="https://github.com/user-attachments/assets/a37d8c14-f459-4d13-acfc-2c62b8c4bfcf" />
 
-<p align="center"><strong>Dream. Think. Create.</strong></p>
+
 
 <p align="center">Free, locally powered AI creation. Four labs. One application.</p>
 
