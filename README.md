@@ -27,3 +27,10 @@
   <p align="center"><strong>Coming Soon</strong></p>
   <p align="center">Creation Zone — Diffusion workflow demonstration.</p>
 </details>
+
+<details>
+  <summary><strong>Agentic Coding</strong></summary>
+
+  <p align="center"><strong>Coming Soon</strong></p>
+  <p align="center">Llama Lab — Agentic Coding.</p>
+</details>
