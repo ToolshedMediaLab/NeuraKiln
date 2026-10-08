@@ -4,6 +4,7 @@
 
 <details open>
   <summary><strong>Mesh Creation</strong></summary>
+  
   <img width="880" height="496" alt="creation-zone-preview" src="https://github.com/user-attachments/assets/b01d78b1-829b-480b-8b4e-fe8b890384fc" />
   <p align="center">Free, locally powered AI creation. Four labs. One application.</p>
 
