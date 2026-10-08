@@ -31,7 +31,7 @@ If you encounter a bug, crash, or unexpected behavior while using NeuraKiln, ple
 
 ### How to Report a Bug
 
-1. Join the **Official NeuraKiln Discord Server**.
+1. Join the [**Official NeuraKiln Discord Server**](https://discord.gg/KxXHZMmdZ7).
 2. Navigate to the **#bug-report** channel.
 3. Describe the issue and include the following information where applicable:
    - **NeuraKiln Version:** The version you're currently using.
