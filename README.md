@@ -224,6 +224,7 @@ https://github.com/user-attachments/assets/3c2dca6f-0f29-4bed-b397-895d878511a6
   combine GPU memory into one shared pool.
 </p>
 
+
 ---
 
 <h2 align="center">Join the NeuraKiln Community</h2>
@@ -292,3 +293,146 @@ https://github.com/user-attachments/assets/3c2dca6f-0f29-4bed-b397-895d878511a6
 <p align="center">
   <em>Your support is entirely optional, but always appreciated.</em>
 </p>
+
+---
+
+<h2 align="center">Credits & Acknowledgments</h2>
+
+<p align="center">
+  <strong>NeuraKiln is independently developed by ToolshedMediaLabs.</strong>
+</p>
+
+<p align="center">
+  NeuraKiln brings together original software, custom
+  backends, and integrations with established AI
+  technologies. The following projects and their
+  contributors deserve recognition for their work.
+</p>
+
+<h3>Core Technologies & Backends</h3>
+
+<table>
+  <tr>
+    <th align="left" width="50%">
+      <a href="https://github.com/ggml-org/llama.cpp">llama.cpp</a>
+    </th>
+    <th align="left" width="50%">
+      <a href="https://github.com/Niko1221/Strata">Strata</a>
+    </th>
+  </tr>
+  <tr>
+    <td>Local language model inference and GGUF support. Developed by the llama.cpp contributors.</td>
+    <td>Alternative local LLM inference engine. Developed by Niko1221 and contributors.</td>
+  </tr>
+
+  <tr>
+    <th align="left">
+      <a href="https://github.com/leejet/stable-diffusion.cpp">stable-diffusion.cpp</a>
+    </th>
+    <th align="left">
+      <a href="https://github.com/microsoft/onnxruntime">ONNX Runtime</a>
+    </th>
+  </tr>
+  <tr>
+    <td>Local generative model inference using C/C++ implementations.</td>
+    <td>Cross-platform machine learning inference framework used in Media Lab processing.</td>
+  </tr>
+
+  <tr>
+    <th align="left">
+      <a href="https://www.blender.org/">Blender</a>
+    </th>
+    <th align="left">
+      <a href="https://ffmpeg.org/">FFmpeg</a>
+    </th>
+  </tr>
+  <tr>
+    <td>Professional 3D creation and refinement tools. Developed by the Blender community.</td>
+    <td>Multimedia processing, encoding, decoding, and video handling.</td>
+  </tr>
+
+  <tr>
+    <th align="left">
+      <a href="https://developer.nvidia.com/cuda-toolkit">NVIDIA CUDA</a> /
+      <a href="https://developer.nvidia.com/tensorrt">TensorRT</a>
+    </th>
+    <th align="left">
+      <a href="https://huggingface.co/">Hugging Face</a>
+    </th>
+  </tr>
+  <tr>
+    <td>GPU computing and optimized AI inference technologies powering supported NVIDIA workloads.</td>
+    <td>AI model ecosystem and model discovery services.</td>
+  </tr>
+</table>
+
+<h3>AI Models & Research</h3>
+
+<table>
+  <tr>
+    <th align="left">Project</th>
+    <th align="left">Developer</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/QwenLM">Qwen Models</a></td>
+    <td>Qwen Team / Alibaba</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/tencent-hunyuan/hunyuan3d-2.1">Hunyuan3D</a></td>
+    <td>Tencent Hunyuan</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Lightricks/LTX-Video">LTX-Video</a></td>
+    <td>Lightricks</td>
+  </tr>
+</table>
+
+<p>
+  NeuraKiln supports an expanding ecosystem of
+  independently developed AI models. Credit for these
+  models belongs to their respective creators,
+  researchers, and contributors.
+</p>
+
+<h3>Original NeuraKiln Development</h3>
+
+<p>
+  The NeuraKiln application, its original user interface,
+  integrated workflows, model management systems,
+  agent tooling, and proprietary NKMedia and NKDiffusion
+  backend components are developed by
+  <strong>ToolshedMediaLabs</strong>.
+</p>
+
+<h3>Licensing & Third-Party Rights</h3>
+
+<p>
+  All third-party projects, libraries, frameworks,
+  and AI models retain their respective copyrights,
+  licenses, and terms of use.
+</p>
+
+<p>
+  Recognition in this section does not imply
+  affiliation, sponsorship, or endorsement by
+  the credited projects or organizations.
+</p>
+
+<p>
+  NeuraKiln's proprietary licensing applies only
+  to components owned by its copyright holder
+  and does not supersede third-party licenses.
+</p>
+
+---
+
+<p align="center">
+  <strong>Special thanks to the developers, researchers,
+  and open-source communities advancing local AI.</strong>
+</p>
+
+<p align="center">
+  <sub>NeuraKiln — Dream. Think. Create.</sub>
+</p>
+
+
