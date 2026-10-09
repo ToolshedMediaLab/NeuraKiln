@@ -224,7 +224,7 @@ https://github.com/user-attachments/assets/3c2dca6f-0f29-4bed-b397-895d878511a6
 
 ---
 
-## Installation & Setup
+## Installation, Setup & Guides
 
 
 
