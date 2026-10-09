@@ -147,6 +147,8 @@ https://github.com/user-attachments/assets/3c2dca6f-0f29-4bed-b397-895d878511a6
   Every donation helps support continued development, improvements, and the growth of NeuraKiln.
 </p>
 
+---
+
 <h2>System Requirements</h2>
 
 <p>
@@ -220,8 +222,12 @@ https://github.com/user-attachments/assets/3c2dca6f-0f29-4bed-b397-895d878511a6
   combine GPU memory into one shared pool.
 </p>
 
-
 ---
+
+## Installation & Setup
+
+
+
 
 <h2 align="center">Join the NeuraKiln Community</h2>
 
