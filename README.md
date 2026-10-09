@@ -39,7 +39,7 @@ https://github.com/user-attachments/assets/3c2dca6f-0f29-4bed-b397-895d878511a6
 
 ---
 
-## What Is NeuraKiln?
+<h2 align="center">What is NeuraKiln?</h2>
 
 <table>
   <tr>
@@ -56,7 +56,7 @@ https://github.com/user-attachments/assets/3c2dca6f-0f29-4bed-b397-895d878511a6
 
 ---
 
-## Explore the four labs
+<h2 align="center">Explore the four labs</h2>
 
 
 <table>
@@ -115,9 +115,261 @@ https://github.com/user-attachments/assets/3c2dca6f-0f29-4bed-b397-895d878511a6
   </tr>
 </table>
 
+
+
 ---
 
-### Built Around Your Hardware
+<h2 align="center">Tools & Harnesses</h2>
+
+<h3 align="center">Your Models. Your Hardware. Real Tools.</h3>
+
+NeuraKiln extends local AI beyond traditional chat by providing agents with access to system utilities, browser automation, external integrations, and specialized creative workflows.
+
+From navigating websites and executing code to generating 3D assets and restoring media, NeuraKiln connects language models to the tools they need to accomplish complex tasks.
+
+---
+
+### Agent Tools
+
+<details>
+<summary><strong>Browser — Web Navigation & Automation</strong></summary>
+
+<br>
+
+**Backend:** Playwright
+
+NeuraKiln provides a dedicated browser automation environment for local AI agents. Browser sessions are isolated by runtime owner, allowing multiple agents to operate without sharing a single browser session.
+
+| Tool | Description |
+| --- | --- |
+| **Navigate** | Open websites and navigate to URLs. |
+| **Reload** | Refresh the current page. |
+| **Page Snapshot** | Inspect page structure, text, and interactive elements. |
+| **Click** | Interact with buttons, links, and other page elements. |
+| **Type** | Enter text into forms and input fields. |
+| **Keyboard Input** | Send keyboard commands and shortcuts. |
+| **JavaScript Evaluation** | Execute JavaScript within the browser's page context. |
+| **Browser Console** | Inspect console output for debugging and validation. |
+| **Screenshot** | Capture visual representations of webpages. |
+| **Close Browser** | Close the agent-owned browser session. |
+
+**Supported workflows:** Web research, documentation browsing, form interaction, frontend testing, and browser-assisted development.
+
+**Authentication:** Some services restrict automated sign-in. Authenticated browsing may require additional profile setup, which will be covered in the installation documentation.
+
+</details>
+
+<details>
+<summary><strong>OpenTerminal — System & File Operations</strong></summary>
+
+<br>
+
+**Backend:** OpenTerminal
+
+OpenTerminal provides agents with command execution, filesystem access, and process management capabilities through an isolated, managed tool service.
+
+| Tool | Description |
+| --- | --- |
+| **Run Command** | Execute terminal commands, scripts, and development utilities. |
+| **List Processes** | View running system processes. |
+| **Get Process Status** | Inspect the state of a process. |
+| **Send Process Input** | Send input to an active process. |
+| **Kill Process** | Terminate a selected process. |
+| **List Files** | Browse files and directories. |
+| **Read File** | Read file contents for inspection or analysis. |
+| **Write File** | Create or write files. |
+| **Replace File Content** | Apply targeted changes to existing files. |
+| **Grep Search** | Search file contents for matching text or patterns. |
+| **Glob Search** | Discover files using filename patterns. |
+
+**Supported workflows:** Software development, debugging, automation, scripting, filesystem management, and project maintenance.
+
+Individual OpenTerminal tools can be enabled or disabled through the model's tool configuration.
+
+</details>
+
+<details>
+<summary><strong>MCP Integrations — External Tools & Services</strong></summary>
+
+<br>
+
+**Integration:** Model Context Protocol (MCP)
+
+NeuraKiln supports connecting local language models to external services through MCP-compatible tool providers.
+
+| Integration | Description |
+| --- | --- |
+| **GitHub MCP** | Work with repositories, source code, issues, pull requests, and supported GitHub operations. |
+| **Hugging Face MCP** | Access supported model hub and repository-related capabilities. |
+| **Exa MCP** | Perform web searches and retrieve external information. |
+
+Available tools depend on the connected MCP provider, configuration, and account permissions.
+
+</details>
+
+<details>
+<summary><strong>Skill Tree — Structured Agent Procedures</strong></summary>
+
+<br>
+
+Skill Tree provides structured procedural guidance for models executing complex tasks.
+
+Rather than requiring the model to repeatedly invent its own workflow, Skill Tree can route tasks through predefined instructions and specialized procedures.
+
+| Capability | Description |
+| --- | --- |
+| **Task Routing** | Identify the appropriate procedural workflow for a task. |
+| **Coding Procedures** | Guide development, inspection, modification, and validation workflows. |
+| **Research Procedures** | Structure information gathering, investigation, and synthesis. |
+| **Progressive Loading** | Load relevant instructions without placing every skill into the model's context. |
+| **Workflow Transitions** | Move between procedures as a task progresses. |
+
+Skill Tree is designed to complement execution tools such as OpenTerminal, Browser, and MCP rather than duplicate their functionality.
+
+</details>
+
+<details>
+<summary><strong>Agent Space — Multi-Agent Coordination</strong></summary>
+
+<br>
+
+Agent Space provides a collaborative environment for multiple independently configured language-model participants.
+
+Each participant maintains its own execution context while coordinating through shared workspace information.
+
+| Capability | Description |
+| --- | --- |
+| **Independent Agents** | Run separately configured model participants. |
+| **Shared Board** | Exchange plans, updates, and coordination information. |
+| **Task Coordination** | Organize work and distribute responsibilities. |
+| **Task Ownership** | Track assigned responsibilities across participants. |
+| **Reviews & Handoffs** | Coordinate reviews, results, and transfers of work. |
+| **Shared Workspace State** | Maintain information used for collaboration between agents. |
+| **Tool Access** | Allow participants to use supported engineering and creation tools. |
+
+Agent Space is designed for collaborative workflows involving multiple real model participants, rather than a single model simulating an entire team.
+
+</details>
+
+### Creative Tools & Lab Workflows
+
+NeuraKiln integrates specialized tools for generating, restoring, enhancing, and manipulating creative assets.
+
+<details>
+<summary><strong>Media Lab — Restoration & Enhancement</strong></summary>
+
+<br>
+
+**Backend:** NKMedia Custom Backend / ONNX Runtime
+
+| Tool / Workflow | Description |
+| --- | --- |
+| **Restore** | Restore or upscale individual media files using compatible AI models. |
+| **Batch Restore** | Process multiple media files in a batch workflow. |
+| **Pipeline+ Restore** | Apply configured restoration processing pipelines. |
+| **Pipeline+ AFK Restore** | Run extended restoration workflows with reduced manual intervention. |
+| **Smart Scan** | Analyze video material to assist restoration workflows. |
+| **Photo Smart Scan** | Analyze images for supported photo-processing workflows. |
+| **Compare** | Inspect and compare original and processed media. |
+| **Postedit** | Perform additional processing on restoration results. |
+| **Recompile** | Reassemble processed media into a final output. |
+
+</details>
+
+<details>
+<summary><strong>Diffusion Lab — Image & Video Generation</strong></summary>
+
+<br>
+
+**Backends:** stable-diffusion.cpp / NKDiffusion Custom Backend
+
+| Tool / Workflow | Description |
+| --- | --- |
+| **Text-to-Image** | Generate images from natural-language descriptions using supported models. |
+| **Text-to-Video** | Generate video sequences from text prompts using compatible video-generation models. |
+| **Model Configuration** | Configure supported generation models and execution settings. |
+| **LoRA Support** | Apply compatible LoRA adapters where supported by the generation backend. |
+
+</details>
+
+<details>
+<summary><strong>Mesh Lab — 3D Asset Creation</strong></summary>
+
+<br>
+
+**Integrations:** Hunyuan3D / Blender / NeuraKiln Creation Workflows
+
+| Tool / Workflow | Description |
+| --- | --- |
+| **IdeaGen** | Generate visual concepts for downstream creative workflows. |
+| **3DGen** | Generate 3D geometry from supported image or text-driven workflows. |
+| **Texturing** | Produce textured assets using compatible 3D generation models. |
+| **AutoRig** | Apply supported automated rigging operations to generated assets. |
+| **Blender Integration** | Refine, inspect, and manipulate assets through Blender-assisted workflows. |
+| **Asset Export** | Prepare and export generated assets for use in external applications. |
+
+</details>
+
+### Harnesses
+
+**Tools perform operations. Harnesses organize those operations into workflows.**
+
+NeuraKiln's harness system provides structured environments for local models to coordinate tools and complete multi-stage tasks.
+
+<details>
+<summary><strong>Creation Harnesses — Creative Workflows</strong></summary>
+
+<br>
+
+| Harness | Description |
+| --- | --- |
+| **Llama Lab Creator** | Coordinates supported tools and creative operations in model-driven workflows. |
+| **Mesh Lab Assistant** | Assists with concept development, asset generation, and 3D creation workflows. |
+| **IdeaGen** | Guides concept and image generation for supported creative tasks. |
+
+Harness availability and supported operations depend on the configured model, installed components, and active tool integrations.
+
+</details>
+
+<details>
+<summary><strong>Coding Harness — Software Engineering</strong></summary>
+
+<br>
+
+The Coding Harness equips local language models with development tools and structured workflows for software engineering, debugging, testing, and automation.
+
+| Capability | Description |
+| --- | --- |
+| **Code Inspection** | Examine source files, dependencies, and project structures. |
+| **Code Creation & Editing** | Create, modify, and refactor source code. |
+| **Terminal Execution** | Execute scripts, development commands, and build utilities through OpenTerminal. |
+| **Debugging** | Investigate failures, inspect logs, and apply targeted corrections. |
+| **Testing & Validation** | Execute available tests, inspect results, and verify changes. |
+| **Browser Testing** | Navigate, interact with, and inspect web applications using Playwright. |
+| **Repository Integration** | Access supported GitHub operations through MCP. |
+| **Skill Tree Integration** | Follow structured coding procedures for inspection, implementation, debugging, and verification. |
+| **Multi-Agent Collaboration** | Coordinate development tasks between independent model participants through Agent Space. |
+
+**Designed for:** Software development, debugging, code maintenance, automation, and multi-stage engineering workflows.
+
+</details>
+
+### One Environment. Connected Capabilities.
+
+A local language model can combine supported capabilities into larger workflows rather than treating every tool as a separate application.
+
+For example, a creation workflow may involve:
+
+**User Request → Concept Generation → 3D Generation → Blender Refinement → Asset Export**
+
+NeuraKiln's Creation Zone demonstration shows this type of multi-stage workflow being executed by a locally running model.
+
+> **Tool availability:** Some integrations require additional model downloads, dependencies, accounts, or configuration. Agent access to individual creative workflows may vary by release version. Models must support the relevant tool-calling capabilities, and tool execution remains subject to the configured permissions and runtime environment.
+
+---
+
+
+<h2 align="center">Built Around Your Hardware</h2>
 
 ---
 
@@ -149,7 +401,7 @@ https://github.com/user-attachments/assets/3c2dca6f-0f29-4bed-b397-895d878511a6
 
 ---
 
-<h2>System Requirements</h2>
+<h2 align="center">System Requirements</h2>
 
 <p>
   NeuraKiln is designed for NVIDIA RTX-powered systems.
@@ -224,7 +476,7 @@ https://github.com/user-attachments/assets/3c2dca6f-0f29-4bed-b397-895d878511a6
 
 ---
 
-## Installation, Setup & Guides
+<h2 align="center">Installation, Setup & Guides</h2>
 
 
 
@@ -268,32 +520,6 @@ https://github.com/user-attachments/assets/3c2dca6f-0f29-4bed-b397-895d878511a6
 
 <p align="center">
   <sub>Official NeuraKiln Discord Server</sub>
-</p>
-
----
-
-<h2 align="center">Support NeuraKiln Development</h2>
-
-<p align="center">
-  <strong>NeuraKiln is free, and I intend to keep it that way.</strong>
-</p>
-
-<p align="center">
-  <a href="https://buymeacoffee.com/toolshedmedialabs">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" width="200">
-  </a>
-</p>
-
-<p align="center">
-  If NeuraKiln has saved you a headache, improved your workflow, or helped bring your creative ideas to life, please consider buying me a coffee!
-</p>
-
-<p align="center">
-  Every donation helps support continued development, improvements, and the growth of NeuraKiln.
-</p>
-
-<p align="center">
-  <em>Your support is entirely optional, but always appreciated.</em>
 </p>
 
 ---
@@ -437,4 +663,31 @@ https://github.com/user-attachments/assets/3c2dca6f-0f29-4bed-b397-895d878511a6
   <sub>NeuraKiln — Dream. Think. Create.</sub>
 </p>
 
+---
+
+<h2 align="center">Support NeuraKiln Development</h2>
+
+<p align="center">
+  <strong>NeuraKiln is free, and I intend to keep it that way.</strong>
+</p>
+
+<p align="center">
+  <a href="https://buymeacoffee.com/toolshedmedialabs">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" width="200">
+  </a>
+</p>
+
+<p align="center">
+  If NeuraKiln has saved you a headache, improved your workflow, or helped bring your creative ideas to life, please consider buying me a coffee!
+</p>
+
+<p align="center">
+  Every donation helps support continued development, improvements, and the growth of NeuraKiln.
+</p>
+
+<p align="center">
+  <em>Your support is entirely optional, but always appreciated.</em>
+</p>
+
+---
 
