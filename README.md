@@ -12,7 +12,18 @@ https://github.com/user-attachments/assets/84f71572-146d-4e41-9884-9eab385f9465
 
 <h2 align="center">Model-Driven Workflow Demos</h2>
 
+
 <details open>
+  <summary><strong>Media Restoration</strong></summary>
+
+<img width="880" height="496" alt="NeuraKiln_Media_Lab_Comparison_Revised" src="https://github.com/user-attachments/assets/0b2d6814-47f8-4185-b556-8982d4ea15ec" />
+
+
+  <p align="center"><strong> One prompt. Local LLM. Old Media → NK Restore Pipeline → Let the frames speak for themselves.</strong></p>
+  <p align="center">Demo Hardware: 2× RTX 3060 12GB, 1× RTX 5060 Ti 16G</p>
+</details>
+
+<details>
   <summary><strong>Mesh Creation</strong></summary>
   
   <img width="880" height="496" alt="creation-zone-preview" src="https://github.com/user-attachments/assets/b01d78b1-829b-480b-8b4e-fe8b890384fc" />
@@ -24,15 +35,6 @@ https://github.com/user-attachments/assets/84f71572-146d-4e41-9884-9eab385f9465
   <p align="center"><sub>Demo Hardware: 2× RTX 3060 12GB, 1× RTX 5060 Ti 16GB</sub></p>
 </details>
 
-<details>
-  <summary><strong>Media Restoration</strong></summary>
-
-<img width="880" height="496" alt="NeuraKiln_Media_Lab_Comparison_Revised" src="https://github.com/user-attachments/assets/0b2d6814-47f8-4185-b556-8982d4ea15ec" />
-
-
-  <p align="center"><strong> One prompt. Local LLM. Old Media → NK Restore Pipeline → Let the frames speak for themselves.</strong></p>
-  <p align="center">Demo Hardware: 2× RTX 3060 12GB, 1× RTX 5060 Ti 16G</p>
-</details>
 
 <details>
   <summary><strong>Image/Video Diffusion</strong></summary>
