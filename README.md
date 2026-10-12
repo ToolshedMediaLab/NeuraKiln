@@ -27,7 +27,7 @@ https://github.com/user-attachments/assets/84f71572-146d-4e41-9884-9eab385f9465
 <details>
   <summary><strong>Media Restoration</strong></summary>
 
-  <img width="880" height="496" alt="NeuraKiln_Media_Lab_Preview" src="https://github.com/user-attachments/assets/9993ec6d-ad01-4180-a0f7-7832c22c182d" />
+<img width="880" height="496" alt="NeuraKiln_Media_Lab_Comparison_Revised" src="https://github.com/user-attachments/assets/0b2d6814-47f8-4185-b556-8982d4ea15ec" />
 
 
   <p align="center"><strong> One prompt. Local LLM. Old Media → NK Restore Pipeline → Let the frames speak for themselves.</strong></p>
