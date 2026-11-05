@@ -10,7 +10,7 @@ https://github.com/user-attachments/assets/84f71572-146d-4e41-9884-9eab385f9465
 
 ---
 
-<h2 align="center">Model-Driven Workflow Demos</h2>
+<h2 align="center">LLM-Driven Workflow Demos</h2>
 
 
 <details open>
