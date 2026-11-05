@@ -417,6 +417,8 @@ NeuraKiln's Creation Zone demonstration shows this type of multi-stage workflow 
 
 ---
 
+---
+
 <h2 align="center">System Requirements</h2>
 
 <p>
@@ -437,6 +439,67 @@ NeuraKiln's Creation Zone demonstration shows this type of multi-stage workflow 
     <td align="center"><strong>64 GB RAM</strong></td>
   </tr>
 </table>
+
+<h3>Storage</h3>
+
+<p>
+  NeuraKiln itself is portable, but local AI models, generated media,
+  temporary files, caches, and project data can require significant
+  storage. The following capacities are recommended when planning a
+  system for NeuraKiln.
+</p>
+
+<h4>Full Application & Intended Experience</h4>
+
+<table>
+  <tr>
+    <th align="center" width="50%">Minimum</th>
+    <th align="center" width="50%">Recommended</th>
+  </tr>
+  <tr>
+    <td align="center"><strong>512 GB</strong></td>
+    <td align="center"><strong>1 TB</strong></td>
+  </tr>
+</table>
+
+<h4>Per-Lab / Workload Storage</h4>
+
+<table>
+  <tr>
+    <th align="left">Lab / Workload</th>
+    <th align="center">Recommended Storage</th>
+  </tr>
+  <tr>
+    <td><strong>Llama Lab</strong></td>
+    <td align="center">256 GB</td>
+  </tr>
+  <tr>
+    <td><strong>Media Lab</strong></td>
+    <td align="center">128 GB</td>
+  </tr>
+  <tr>
+    <td><strong>Mesh Lab</strong></td>
+    <td align="center">256 GB</td>
+  </tr>
+  <tr>
+    <td><strong>Diffusion Lab</strong><br>
+    <sub>Text-to-Image</sub></td>
+    <td align="center">256 GB</td>
+  </tr>
+  <tr>
+    <td><strong>Diffusion Lab</strong><br>
+    <sub>Text-to-Video</sub></td>
+    <td align="center">512 GB</td>
+  </tr>
+</table>
+
+<p>
+  <strong>Important:</strong> These figures are practical storage
+  recommendations and do not represent the size of the NeuraKiln
+  application itself. Actual storage usage depends on installed models,
+  quantizations, input media, generated outputs, temporary files,
+  caches, and retained project data.
+</p>
 
 <h3>GPU Requirements</h3>
 
@@ -489,6 +552,8 @@ NeuraKiln's Creation Zone demonstration shows this type of multi-stage workflow 
   on the selected backend and does not necessarily
   combine GPU memory into one shared pool.
 </p>
+
+---
 
 ---
 
