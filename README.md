@@ -538,7 +538,7 @@ NeuraKiln's Creation Zone demonstration shows this type of multi-stage workflow 
 </p>
 
 <p align="center">
-  <sub>Official NeuraKiln Discord Server</sub>
+ 
 </p>
 
 ---
