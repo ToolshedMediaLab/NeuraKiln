@@ -12,8 +12,14 @@ https://github.com/user-attachments/assets/84f71572-146d-4e41-9884-9eab385f9465
 
 <h2 align="center">LLM-Driven Workflow Demos</h2>
 
+<details>
+  <summary><strong>Agentic Coding</strong></summary>
 
-<details open>
+  <p align="center"><strong>Coming Soon</strong></p>
+  <p align="center">Agent Space — Agentic Coding Demonstration.</p>
+</details>
+
+<details>
   <summary><strong>Media Restoration</strong></summary>
 
 <img width="880" height="496" alt="NeuraKiln_Media_Lab_Comparison_Revised" src="https://github.com/user-attachments/assets/0b2d6814-47f8-4185-b556-8982d4ea15ec" />
@@ -41,17 +47,11 @@ https://github.com/user-attachments/assets/84f71572-146d-4e41-9884-9eab385f9465
 
 <img width="880" height="496" alt="NeuraKiln_Creation_Zone_GitHub_MOTION" src="https://github.com/user-attachments/assets/6304d4df-e3f5-48e1-a646-bdfe25a48d91" />
 
-<p align="center"><strong> One prompt. Local LLM. Prompt your agent → Let the results speak for themselves.</strong></p>
+<p align="center"><strong> One prompt. Local LLM. Prompt your agent → Let the results speak for themselves. </strong></p>
 <p align="center">Demo Hardware: 2× RTX 3060 12GB, 2× RTX 5060 Ti 16G</p>
 
 </details>
 
-<details>
-  <summary><strong>Agentic Coding</strong></summary>
-
-  <p align="center"><strong>Coming Soon</strong></p>
-  <p align="center">Agent Space — Agentic Coding Demonstration.</p>
-</details>
 
 ---
 
