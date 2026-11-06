@@ -555,6 +555,19 @@ NeuraKiln's Creation Zone demonstration shows this type of multi-stage workflow 
 
 ---
 
+### Language / 语言 / 言語 / Idioma
+
+NeuraKiln currently supports the following interface languages:
+
+- **English**
+- **简体中文 — Simplified Chinese**
+- **日本語 — Japanese**
+- **Español — Spanish**
+
+The interface language can be changed from within NeuraKiln's settings.
+
+> Some third-party model information, runtime output, logs, or external content may remain in the language provided by the original software or model provider.
+
 ---
 
 <h2 align="center">Installation, Setup & Guides</h2>
