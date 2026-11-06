@@ -22,11 +22,15 @@
 - Place **ALL 3 PARTS** of the `NK Setup Bundle` into the `Setup` folder.
 - Open the `Setup` folder.
 - Right-click **PART ONE** of the NK Setup Bundle.
+- Select "Show More Options"
+- Navigate to 7Zip in the listed options
 - Select **Extract Here**.
 - You will now have a folder named `NK Setup Bundle`. Leave it inside the `Setup` folder for now.
 - Exit the `Setup` folder.
 - Open the `NK` folder.
 - Right-click **PART ONE** of `NeuraKiln-v2.0.0`.
+- Select "Show More Options"
+- Navigate to 7Zip in the listed options
 - Select **Extract Here**.
 
 ### After extraction finishes...
