@@ -558,7 +558,7 @@ NeuraKiln's Creation Zone demonstration shows this type of multi-stage workflow 
 ---
 
 <h2 align="center">Installation, Setup & Guides</h2>
-<h3>Latest Release:</h3>
+<h3>Latest Release: https://github.com/ToolshedMediaLab/NeuraKiln/releases/tag/NeuraKiln-v2.0.0 </h3>
 <h3>Initial Installation & Setup Guide: https://github.com/ToolshedMediaLab/NeuraKiln/blob/NeuraKiln/docs/Install_Guide.md </h3>
 <h3>Model & LoRA Installation Guides: https://github.com/ToolshedMediaLab/NeuraKiln/blob/NeuraKiln/docs/Model&LoRAInstallationGuides.md </h3>
 <h3>General How-To Guides:</h3>
