@@ -397,28 +397,6 @@ NeuraKiln's Creation Zone demonstration shows this type of multi-stage workflow 
 
 ---
 
-<p align="center">
-  <strong>NeuraKiln is free, and I intend to keep it that way.</strong>
-</p>
-
-<p align="center">
-  <a href="https://buymeacoffee.com/toolshedmedialabs">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" width="200">
-  </a>
-</p>
-
-<p align="center">
-  If NeuraKiln has saved you a headache, improved your workflow, or helped bring your creative ideas to life, please consider buying me a coffee!
-</p>
-
-<p align="center">
-  Every donation helps support continued development, improvements, and the growth of NeuraKiln.
-</p>
-
----
-
----
-
 <h2 align="center">System Requirements</h2>
 
 <p>
