@@ -98,7 +98,7 @@ https://github.com/user-attachments/assets/9d38018c-398b-4d62-a32e-84ca4aeb9adf
 <img width="880" height="496" alt="Agentic Coding" src="https://github.com/user-attachments/assets/3c55f6a1-18d5-43ab-b486-05022490eb03" />
 
   <p align="center"><strong>One prompt. Local LLM. Let the results speak for themself.</strong></p>
-  <p align="center">Demo Hardware: 2× RTX 5060 Ti 16G</p>
+  <p align="center">Demo Hardware: 2× RTX 5060 Ti 16 GB</p>
 </details>
 
 <details>
@@ -108,7 +108,7 @@ https://github.com/user-attachments/assets/9d38018c-398b-4d62-a32e-84ca4aeb9adf
 
 
   <p align="center"><strong> One prompt. Local LLM. Old Media → NK Restore Pipeline → Let the frames speak for themselves.</strong></p>
-  <p align="center">Demo Hardware: 2× RTX 3060 12GB, 1× RTX 5060 Ti 16G</p>
+  <p align="center">Demo Hardware: 2× RTX 3060 12GB, 1× RTX 5060 Ti 16 GB</p>
 </details>
 
 <details>
@@ -120,7 +120,7 @@ https://github.com/user-attachments/assets/9d38018c-398b-4d62-a32e-84ca4aeb9adf
 
   <p align="center">One prompt. Local LLM. Concept Art → 3D Generation → Blender Refinement → Export.</p>
 
-  <p align="center"><sub>Demo Hardware: 2× RTX 3060 12GB, 1× RTX 5060 Ti 16GB</sub></p>
+  <p align="center"><sub>Demo Hardware: 2× RTX 3060 12GB, 1× RTX 5060 Ti 16 GB</sub></p>
 </details>
 
 
@@ -130,7 +130,7 @@ https://github.com/user-attachments/assets/9d38018c-398b-4d62-a32e-84ca4aeb9adf
 <img width="880" height="496" alt="NeuraKiln_Creation_Zone_GitHub_MOTION" src="https://github.com/user-attachments/assets/6304d4df-e3f5-48e1-a646-bdfe25a48d91" />
 
 <p align="center"><strong> One prompt. Local LLM. Prompt your agent → Let the results speak for themselves. </strong></p>
-<p align="center">Demo Hardware: 2× RTX 3060 12GB, 2× RTX 5060 Ti 16G</p>
+<p align="center">Demo Hardware: 2× RTX 3060 12GB, 2× RTX 5060 Ti 16 GB</p>
 
 </details>
 
