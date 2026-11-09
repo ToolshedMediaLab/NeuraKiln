@@ -1,22 +1,24 @@
+
+
 <h1 align="center">NeuraKiln v2.0.0 - Formerly Toolshed v1<br><sub>Dream. Think. Create.</sub></h1> <p align="center">Free, locally powered AI creation. Four labs. One application.</p>
 
 ---
 
 
-
-https://github.com/user-attachments/assets/84f71572-146d-4e41-9884-9eab385f9465
-
+https://github.com/user-attachments/assets/9d38018c-398b-4d62-a32e-84ca4aeb9adf
 
 
 ---
 
 <h2 align="center">LLM-Driven Workflow Demos</h2>
 
-<details>
+<details open>
   <summary><strong>Agentic Coding</strong></summary>
 
-  <p align="center"><strong>Coming Soon</strong></p>
-  <p align="center">Agent Space — Agentic Coding Demonstration.</p>
+<img width="880" height="496" alt="Agentic Coding" src="https://github.com/user-attachments/assets/3c55f6a1-18d5-43ab-b486-05022490eb03" />
+
+  <p align="center"><strong>One prompt. Local LLM. Let the results speak for themself.</strong></p>
+  <p align="center">Demo Hardware: 2× RTX 5060 Ti 16G</p>
 </details>
 
 <details>
