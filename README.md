@@ -16,7 +16,7 @@ https://github.com/user-attachments/assets/9d38018c-398b-4d62-a32e-84ca4aeb9adf
   <tr>
     <td width="66%" valign="middle">
       <p><strong>NeuraKiln (formerly Toolshed)</strong> is a free-to-use, local-first AI workstation for Windows, built around NVIDIA GPU acceleration.</p>
-      <p>It brings large language models, media restoration, image and video generation, and 3D creation together in one application—without forcing you to manage a collection of disconnected tools.</p>
+      <p>It brings language models, media restoration, image and video generation, and 3D creation together in one application—without forcing you to manage a collection of disconnected tools.</p>
       <p><strong>Four specialized labs. One connected workspace.</strong></p>
     </td>
     <td width="34%" align="center" valign="middle">
