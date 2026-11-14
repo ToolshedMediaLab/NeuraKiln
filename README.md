@@ -1,6 +1,6 @@
 
 
-<h1 align="center">NeuraKiln v2.0.0 - Formerly Toolshed v1<br><sub>Dream. Think. Create.</sub></h1> <p align="center">Free, locally powered AI creation. Four labs. One application.</p>
+<h1 align="center">NeuraKiln<br><sub>Dream. Think. Create.</sub></h1> <p align="center">Free, locally powered AI creation. Four labs. One application.</p>
 
 ---
 
